@@ -9,7 +9,7 @@ const Contact = props => (
     </div>
     <div>
       <div>
-        <p className="name">{props.nameavatar}</p>
+        <p className="name">{props.name}</p>
       </div>
       <div className="status">
         {props.status ? (
