@@ -7,13 +7,13 @@ const ContactData = [
     image:"https://randomuser.me/api/portraits/women/48.jpg",
     nameavatar: "Joyce Bradley",
     email:"joyce.bradley@example.com",
-    online: "true"
+    online: "false"
   },
   {
     image:"https://randomuser.me/api/portraits/men/91.jpg",
     nameavatar: "Charlie Mitchelle",
     email:"hilda.freeman@example.com",
-    online: ""
+    online: "false"
   },
   {
     image:"https://randomuser.me/api/portraits/men/17.jpg",
@@ -25,7 +25,7 @@ const ContactData = [
     image: "https://randomuser.me/api/portraits/women/55.jpg",
     nameavatar: "Danielle Crawford",
     email: "daniell.crawford@example.com",
-    online: ""
+    online: "false"
   }
 ]
 
